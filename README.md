@@ -1,5 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BerkinSerin&repo=github-readme-stats)](https://github.com/BerkinSerin/github-readme-stats)
-
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=BerkinSerin&repo=repo-name&show_owner=true)](https://github.com/BerkinSerin/repo-name)
 
 
 
